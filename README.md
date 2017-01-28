@@ -12,7 +12,7 @@ Fabrication d'un établis de support et de rangement pour la découpeuse laser "
 - Mobilier sur roulette pour un déplacement aisé. 
 - Stockage plus adapté aux consommables de la laser (60x120cm)
 
-**Caractéristique principale du corp de machine:**
+**Caractéristique principale du corps de machine:**
 1700x1170x380  
 entre 50 et 75kg  
 
