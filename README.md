@@ -27,7 +27,7 @@ Achat matériaux:
 Intitulé  | Description | Quantité  |  Prix htva 
 ------|------|---|---
 Panneau Betonplex | 2500x1500x18 mm| 4 | 248,43€
-SLS Sapin  | 3600x89x38 mm  | 2 | 13,39€
+SLS Sapin  | 3600x89x38 mm  | 3 | 20,09€
 Latte Sapin | 2100x69x69 mm | 2 | 21,71€
 [Roulettes](https://www.kaiserkraft.be/roues-et-roulettes/roulettes-pivotantes-roulettes-fixes/bandage-caoutchouc-thermoplastique-jeu-complet/p/M50182/?PC=6EMA&LC=Shop-eMail_Order-confirmation) | 2 pivotantes + 2 piv. et frein | 1 set | 31,95€
 
