@@ -1,4 +1,4 @@
-#Processus de fab
+﻿#Processus de fab
 
 ##00- plan
 
@@ -21,7 +21,7 @@
 52 – avec le ciseaux couper la fibre à la fin de l entaille sur la longueur du poteau (60mm)  , et enlever un petit copeau et descendre doucement mais sûrement en coupant la fibre du bois sur les 3 faces ( rappeler vous on a couper un triangle avec la scie ) 
 
 53 – rependre les arasements aux ciseaux si nécessaire 
-
+![vue 3D Full bench](https://github.com/openfab-lab/LasersaurBench/blob/master/img/LZ009.jpg)
 
 ##60 – entaillages des tenons 
 61 – couper sur le trait perpendiculaire à 31 mmm (avec une scie pour couper à travers fil) 
