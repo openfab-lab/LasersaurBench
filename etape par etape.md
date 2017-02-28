@@ -29,8 +29,8 @@ se servir d'une calle si besoin est
 
 62 – avec une scie pour couper dans le fil , faire sauté le morceau de 15mm d'épaisseur
 
-63 – couper dans le fil le bout de 29mm puis le faire couper à travers fil pour le faire sauté 
-
+63 – couper dans le fil le bout de 29mm puis le faire couper à travers fil pour le faire sauté          
+![vue 3D Full bench](https://github.com/artitom/LasersaurBench/blob/master/img/LZ010.jpg)
 ##70 – mi-bois des traverses intermédiaires 
 71 – tracer suivant les emplacements voulu des montant intermédiaire (ici 700mm 700mm et 310mm)
 
@@ -39,8 +39,8 @@ avec la scie à travers fil , couper juste à l'intérieur des traits de votre e
 
 73 – avec un ciseau à bois faire sauté les languettes du milieu ; puis finir le fond de l'entaille bien propre 
 
-74 – faire sauté le mi-bois correspondant sur les traverses ( une coupe à travers fil puis une coupe le long du fil du bois ) 
-
+74 – faire sauté le mi-bois correspondant sur les traverses ( une coupe à travers fil puis une coupe le long du fil du bois)       
+![vue 3D Full bench](https://github.com/artitom/LasersaurBench/blob/master/img/LZ011.jpg)
 ##80 – assemblage 
 81 – assembler angle par angle en suivant les signes d'établissement
 
